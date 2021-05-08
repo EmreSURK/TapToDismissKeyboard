@@ -49,7 +49,7 @@ We only two option for dissmissing keyboard:
 
 # Demo
 
-![Demo GIF](demo.gif)
+![Demo GIF](https://raw.githubusercontent.com/EmreSURK/TapToDismissKeyboard/main/demo.gif)
 
 
 
