@@ -2,11 +2,10 @@
 * Tiny fix. All is good :) 
 
 ## [0.0.3] - 09 May 2021
-* Support sound-null-safety. All is good :) 
+* Do not use that version :( 
 
 ## [0.0.2] - 09 May 2021
-* Fixed the gif. All is good :) 
-
+* Do not use that version :(
 
 ## [0.0.1] - 09 May 2021
-* First release. 
+* Do not use that version :(
