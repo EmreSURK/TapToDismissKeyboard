@@ -3,7 +3,7 @@ library tap_to_dismiss_keyboard;
 import 'package:flutter/material.dart';
 
 class TapToDissmissKeyboard extends StatefulWidget {
-  final Widget child;
+  final Widget? child;
   TapToDissmissKeyboard({this.child});
 
   @override
