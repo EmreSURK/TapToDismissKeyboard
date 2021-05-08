@@ -1,6 +1,6 @@
 name: tap_to_dismiss_keyboard
 description: A tiny package to dismiss the keyboard on a touch on black space.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/EmreSURK/TapToDismissKeyboard
 repository: https://github.com/EmreSURK/TapToDismissKeyboard
 

@@ -18,7 +18,9 @@ class _TapToDissmissKeyboardState extends State<TapToDissmissKeyboard> {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
-      onTap: () {},
+      onTap: () {
+        dismissKeyboard();
+      },
       child: widget.child,
     );
   }

@@ -1,4 +1,7 @@
 ## [0.0.3] - 09 May 2021
+* Tiny fix. All is good :) 
+
+## [0.0.3] - 09 May 2021
 * Support sound-null-safety. All is good :) 
 
 ## [0.0.2] - 09 May 2021
